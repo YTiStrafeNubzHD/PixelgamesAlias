@@ -9,3 +9,5 @@ A modified Alias Plugin for PocketMine-MP
 
 It is not advised to use this plugin because the main language is not English. In addition to that, it was modified for one specific server.
 [DE] Dies ist ein für den PixelCity MCPE-Server modifiziertes Plugin.
+
+PixelgamesAlias is running on PixelCity (PIXELGAMES by YT_iStrafeNubzHD)
