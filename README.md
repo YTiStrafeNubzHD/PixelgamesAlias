@@ -1,8 +1,8 @@
-[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias)
+![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias)
 
 # PixelgamesAlias
 
-A modified Alias Plugin for PocketMine-MP
+A modified Alias plugin for PocketMine-MP
 
 # Please do not use PixelgamesAlias for your server.
 # If you want to use the original plugin, download it here: https://github.com/ZacHack/Alias
