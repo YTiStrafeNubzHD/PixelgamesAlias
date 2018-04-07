@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias)
+![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesAlias.svg)]
 
 # PixelgamesAlias
 
