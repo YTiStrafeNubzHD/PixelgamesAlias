@@ -18,4 +18,5 @@ v2.1#: Autor-Name aktualisiert in Info und plugin.yml
 v2.2#: Allgemeines API-Update auf 3.0.0-ALPHA9
 v2.3#: Allgemeines API-Update auf 3.0.0-ALPHA10
 v2.4#: Allgemeines API-Update auf 3.0.0-ALPHA11
+v2.5#: Allgemeines API-Update auf 3.0.0-ALPHA12
 v
