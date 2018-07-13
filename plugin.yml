@@ -1,6 +1,6 @@
 name: PixelgamesAlias
-version: 2.5#
-api: [3.0.0-ALPHA12]
+version: 2.6#
+api: [3.0.0-ALPHA12, 3.0.0, 4.0.0]
 author: ZacHack, iStrafeNubzHDyt
 description: Ermöglicht die Anzeige aller Benutzernamen, die ein Spieler verwendet hat
 main: Authors\PixelgamesAlias\PixelgamesAlias

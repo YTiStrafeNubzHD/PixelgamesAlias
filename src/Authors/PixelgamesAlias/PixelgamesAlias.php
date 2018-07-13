@@ -329,8 +329,8 @@ class PixelgamesAlias extends PluginBase implements Listener {
                                     $sender->sendMessage("§ePlugin von ZacHack, iStrafeNubzHDyt");
                                     $sender->sendMessage("§bName: PixelgamesAlias");
                                     $sender->sendMessage("§bOriginal: Alias");
-                                    $sender->sendMessage("§bVersion: 2.5#");
-                                    $sender->sendMessage("§bFür PocketMine-API: 3.0.0-ALPHA12");
+                                    $sender->sendMessage("§bVersion: 2.6#");
+                                    $sender->sendMessage("§bFür PocketMine-API: 3.0.0-ALPHA12, 3.0.0, 4.0.0");
                                     $sender->sendMessage("§6Permissions: pgalias, pgalias.command.alias, pgalias.command.setalias, pgalias.command.aliasip, pgalias.command.aliascid, pgalias.command.checkalias, pgalias.command.aliasinfo, pgalias.command.aliashelp");
                                     $sender->sendMessage("§eSpeziell für PIXELGAMES entwickelt");
                                     $sender->sendMessage("§e--------------------------------------");
